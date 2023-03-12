@@ -3,7 +3,7 @@
 ESP32-S3-Pill is a line of low-cost development boards for ESP32S3 that fits the breadboard and leaves more breadboard holes open, than standard Devkit boards.
 Programming is performed via USB connector.
 ![ESP32-S3-Pill](pics/front.jpg)
-![ESP32-S3-Pill](pics/frontbreadboard.jpg)
+![ESP32-S3-Pill](pics/front_breadboard.jpg)
 ![ESP32-S3-Pill](pics/back.jpg)
 
 ## Features:
